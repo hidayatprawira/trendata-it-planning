@@ -1,0 +1,8 @@
+1. Backup Image Release
+2. Backup Image Untuk Client Timeplace
+3. Backup MySql Database
+4. Backup MySql Config Setting (Jika Ada)
+5. Backup Email Setting
+6. Backup HTTP Config Setting
+7. Backup DNS Config Setting
+8. Backup Internet IP Setting
